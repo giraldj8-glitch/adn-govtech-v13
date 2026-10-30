@@ -6,6 +6,7 @@ Propuesta de UX para validar. Actualización del 30 de octubre de 2026.
 - Summit: 3 de perfil + 9 ADN; `?recorrido=summit`. Puede añadirse una pregunta de desempate. Opinión y claridad son opcionales al final.
 - Formatos por contenido: selector, etiquetas, listas, tarjetas, escala de resultados, rangos y tablas comparativas.
 - El visitante no selecciona una vista.
+- Completo y Summit conservan las introducciones 3D y el final al deslizar para armar la hélice del ADN.
 - Summit entrega afinidad inicial y temas para explorar, sin niveles de capacidad. No equivale al diagnóstico completo.
 - La valoración opcional de claridad con estrellas no puntúa en el ADN.
 - `formatos.html`: guía del equipo, ejemplos interactivos y Excel de selección.
